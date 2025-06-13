@@ -1,4 +1,3 @@
-# tfm_repo
 # 🎓 Master’s Thesis: Gender Bias and Sentiment in YouTube Discourse on Femicide in Italy
 
 This repository contains the full research project and materials for my master’s thesis, which investigates how gender bias and sentiment are expressed in Italian YouTube comments related to femicide (femminicidio) and gender-based violence (violenza di genere). The study combines computational methods with critical interpretation to explore how digital discourse reflects or challenges dominant narratives.
