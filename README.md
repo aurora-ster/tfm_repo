@@ -58,6 +58,9 @@ Using over 25,000 YouTube comments posted between 2019 and 2025, this thesis app
 
 Non Una Di Meno dataset for 2024 is available here: https://www.istat.it/non-categorizzato/violenza-e-maltrattamenti-contro-le-donne-dentro-e-fuori-la-famiglia-2006/ 
 
+## 📊 Link to the presentation
+https://www.canva.com/design/DAGr6jMbZWY/ckqwoOVTh_jUqwuHAdT8uQ/edit?utm_content=DAGr6jMbZWY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
 ## 📫 Connect
 
 - 📧 Email: aurora.sterpellone@gmail.com
